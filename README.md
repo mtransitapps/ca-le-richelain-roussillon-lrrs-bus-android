@@ -1,5 +1,7 @@
 # exo Le Richelain / Roussillon buses for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
+### ARCHIVED -> mtransitapps/ca-le-richelain-roussillon-lrrs-bus-android
+
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-le-richelain-roussillon-lrrs-bus-android/master/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
 ## Download on Google Play
